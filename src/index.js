@@ -11,4 +11,4 @@ async function start() {
   load(socket);
 }
 
-start();
+start(); npm start
